@@ -1,0 +1,1850 @@
+{
+  "0": {
+    "F0_MAX": {
+      "proximity": -5.129073118878978,
+      "convergence": 0.5125640218847614,
+      "synchrony": -0.7355614601149641
+    },
+    "F0_MEAN": {
+      "proximity": -26.203730117611116,
+      "convergence": 0.6182352443161203,
+      "synchrony": 0.7045852686331945
+    },
+    "F0_MAS": {
+      "proximity": -135.38441435488807,
+      "convergence": -0.8384908391915314,
+      "synchrony": -0.29192126753543707
+    },
+    "ENG_MAX": {
+      "proximity": -2.2812539841290658,
+      "convergence": 0.3226472702882081,
+      "synchrony": 0.6233872335071957
+    },
+    "ENG_MEAN": {
+      "proximity": -2.737312144762157,
+      "convergence": -0.7884401851500753,
+      "synchrony": -0.5593006849481197
+    },
+    "speech_rate": {
+      "proximity": -2.0269631131625276,
+      "convergence": -0.36173698861139864,
+      "synchrony": -0.6020458744155691
+    }
+  },
+  "1": {
+    "F0_MAX": {
+      "proximity": -59.06510438877558,
+      "convergence": 0.5354404987479509,
+      "synchrony": -0.23478710759855423
+    },
+    "F0_MEAN": {
+      "proximity": -72.47996601369147,
+      "convergence": 0.7239579609636316,
+      "synchrony": 0.49209620240674484
+    },
+    "F0_MAS": {
+      "proximity": -123.49357869119802,
+      "convergence": 0.7429290775165945,
+      "synchrony": 0.20363176825395493
+    },
+    "ENG_MAX": {
+      "proximity": -0.29840312940026337,
+      "convergence": 0.371461343623793,
+      "synchrony": -0.08396296514904092
+    },
+    "ENG_MEAN": {
+      "proximity": -2.7136250323285225,
+      "convergence": 0.03205524400075819,
+      "synchrony": 0.2804426273672276
+    },
+    "speech_rate": {
+      "proximity": -5.265458251419933,
+      "convergence": -0.1330307482484424,
+      "synchrony": -0.5245665172627554
+    }
+  },
+  "2": {
+    "F0_MAX": {
+      "proximity": -56.45797570336157,
+      "convergence": 0.1423506831313738,
+      "synchrony": 0.6129952945407837
+    },
+    "F0_MEAN": {
+      "proximity": -99.76318290754728,
+      "convergence": 0.5708728484277283,
+      "synchrony": 0.6367300169820218
+    },
+    "F0_MAS": {
+      "proximity": -89.19278271014599,
+      "convergence": -0.4087084402097662,
+      "synchrony": 0.9040613019346295
+    },
+    "ENG_MAX": {
+      "proximity": -1.3813961870903455,
+      "convergence": 0.38429658669181954,
+      "synchrony": -0.2516698086705499
+    },
+    "ENG_MEAN": {
+      "proximity": -4.340328399900329,
+      "convergence": -0.09328794145039787,
+      "synchrony": 0.31632690132320884
+    },
+    "speech_rate": {
+      "proximity": -4.401538454323186,
+      "convergence": -0.8974934602822504,
+      "synchrony": 0.2535208214039571
+    }
+  },
+  "3": {
+    "F0_MAX": {
+      "proximity": -19.25225671017131,
+      "convergence": -0.3033864762029248,
+      "synchrony": 0.3466135989054038
+    },
+    "F0_MEAN": {
+      "proximity": -1.167109410974689,
+      "convergence": -0.4428639728307044,
+      "synchrony": -0.6485730578591261
+    },
+    "F0_MAS": {
+      "proximity": -54.025985894408336,
+      "convergence": -0.35191371021351486,
+      "synchrony": 0.2741536597114034
+    },
+    "ENG_MAX": {
+      "proximity": -1.573879606983212,
+      "convergence": 0.14699467975227992,
+      "synchrony": -0.5356391486813297
+    },
+    "ENG_MEAN": {
+      "proximity": -0.3655817027915944,
+      "convergence": -0.21338638329920914,
+      "synchrony": 0.529194192558846
+    },
+    "speech_rate": {
+      "proximity": -4.690188305979501,
+      "convergence": -0.7952254219275061,
+      "synchrony": 0.5485955349088546
+    }
+  },
+  "4": {
+    "F0_MAX": {
+      "proximity": -73.13632150738081,
+      "convergence": 0.7156575010205994,
+      "synchrony": -0.558358580790212
+    },
+    "F0_MEAN": {
+      "proximity": -126.31309582826056,
+      "convergence": 0.9361176118320466,
+      "synchrony": -0.614328144795743
+    },
+    "F0_MAS": {
+      "proximity": -174.71965834193608,
+      "convergence": -0.151086740853604,
+      "synchrony": -0.7228327571204556
+    },
+    "ENG_MAX": {
+      "proximity": -1.3305043752853436,
+      "convergence": -0.0786719260221646,
+      "synchrony": -0.4047219374782133
+    },
+    "ENG_MEAN": {
+      "proximity": -3.4409095837771986,
+      "convergence": 0.19084441393513377,
+      "synchrony": 0.1735779357555438
+    },
+    "speech_rate": {
+      "proximity": -3.855450672695766,
+      "convergence": -0.5120809110314924,
+      "synchrony": 0.6686130783517241
+    }
+  },
+  "5": {
+    "F0_MAX": {
+      "proximity": -69.35455756407674,
+      "convergence": -0.3918665419676589,
+      "synchrony": -0.39209109326341307
+    },
+    "F0_MEAN": {
+      "proximity": -59.74106961168573,
+      "convergence": 0.44551023966402964,
+      "synchrony": -0.12380882900150803
+    },
+    "F0_MAS": {
+      "proximity": -723.2899276531837,
+      "convergence": -0.1391266372710565,
+      "synchrony": -0.39615581513823417
+    },
+    "ENG_MAX": {
+      "proximity": -6.836140063075689,
+      "convergence": -0.22009236417147665,
+      "synchrony": 0.3880576769284964
+    },
+    "ENG_MEAN": {
+      "proximity": -2.4532412845414484,
+      "convergence": 0.0607390679685305,
+      "synchrony": 0.2514053810449608
+    },
+    "speech_rate": {
+      "proximity": -3.433938132315377,
+      "convergence": -0.5913717377262395,
+      "synchrony": 0.4503921046195748
+    }
+  },
+  "6": {
+    "F0_MAX": {
+      "proximity": -23.449720383532622,
+      "convergence": 0.19464240065540514,
+      "synchrony": 0.5811425904925104
+    },
+    "F0_MEAN": {
+      "proximity": -27.927732413457477,
+      "convergence": -0.7056340057530385,
+      "synchrony": 0.4314989226628865
+    },
+    "F0_MAS": {
+      "proximity": -31.846480966738454,
+      "convergence": 0.685423207203995,
+      "synchrony": -0.43536320463801975
+    },
+    "ENG_MAX": {
+      "proximity": -2.190691692444055,
+      "convergence": -0.5423352959333646,
+      "synchrony": 0.12231180060530472
+    },
+    "ENG_MEAN": {
+      "proximity": -1.6344357621993595,
+      "convergence": -0.11358677015198045,
+      "synchrony": 0.45443206884807424
+    },
+    "speech_rate": {
+      "proximity": -4.23838965982561,
+      "convergence": -0.6193261097655818,
+      "synchrony": -0.2182181968341377
+    }
+  },
+  "7": {
+    "F0_MAX": {
+      "proximity": -22.812215785885883,
+      "convergence": -0.14004721895926675,
+      "synchrony": 0.3314043365693341
+    },
+    "F0_MEAN": {
+      "proximity": -24.403480734272563,
+      "convergence": 0.45188054066288724,
+      "synchrony": -0.19491769829720684
+    },
+    "F0_MAS": {
+      "proximity": -11.352671577777016,
+      "convergence": -0.2877559802434354,
+      "synchrony": 0.21179327930273395
+    },
+    "ENG_MAX": {
+      "proximity": -6.1876639899694865,
+      "convergence": 0.18689270860875212,
+      "synchrony": -0.8472499039757557
+    },
+    "ENG_MEAN": {
+      "proximity": -2.5582707224242185,
+      "convergence": 0.1929257154319301,
+      "synchrony": -0.6842448378658321
+    },
+    "speech_rate": {
+      "proximity": -0.7463544734273064,
+      "convergence": -0.3855092234418291,
+      "synchrony": -0.2926163569160969
+    }
+  },
+  "8": {
+    "F0_MAX": {
+      "proximity": -177.94306550210027,
+      "convergence": 0.08145686164563454,
+      "synchrony": 0.3044078606303489
+    },
+    "F0_MEAN": {
+      "proximity": -134.72169313512114,
+      "convergence": 0.6479450406464368,
+      "synchrony": 0.6391741328054016
+    },
+    "F0_MAS": {
+      "proximity": -138.4087327559966,
+      "convergence": 0.11878598147217277,
+      "synchrony": 0.5777008351674039
+    },
+    "ENG_MAX": {
+      "proximity": -2.8045198237550153,
+      "convergence": -0.5023738195356534,
+      "synchrony": -0.5886042420432396
+    },
+    "ENG_MEAN": {
+      "proximity": -3.8212643256118284,
+      "convergence": -0.14334709834348938,
+      "synchrony": 0.7651311326519777
+    },
+    "speech_rate": {
+      "proximity": -3.4510380676919983,
+      "convergence": 0.19259257697588536,
+      "synchrony": -0.1011500915609975
+    }
+  },
+  "9": {
+    "F0_MAX": {
+      "proximity": -65.86928962370865,
+      "convergence": 0.850441136276287,
+      "synchrony": -0.30515596839445935
+    },
+    "F0_MEAN": {
+      "proximity": -119.61345578428748,
+      "convergence": 0.7856906405236302,
+      "synchrony": -0.6301665857996264
+    },
+    "F0_MAS": {
+      "proximity": -21.453858782858447,
+      "convergence": 0.3792842909317739,
+      "synchrony": 0.6258646135833904
+    },
+    "ENG_MAX": {
+      "proximity": -0.9405748377541556,
+      "convergence": -0.8058931730002623,
+      "synchrony": 0.43680529585013794
+    },
+    "ENG_MEAN": {
+      "proximity": -2.7853163570599193,
+      "convergence": 0.38052436870660367,
+      "synchrony": 0.08917439375690107
+    },
+    "speech_rate": {
+      "proximity": -0.8995885319832553,
+      "convergence": 0.07418908338292904,
+      "synchrony": -0.20526879731204525
+    }
+  },
+  "10": {
+    "F0_MAX": {
+      "proximity": -95.26866955521245,
+      "convergence": -0.0341325080698841,
+      "synchrony": -0.4753825782444622
+    },
+    "F0_MEAN": {
+      "proximity": -155.12445580792638,
+      "convergence": 0.32239552027262186,
+      "synchrony": -0.46608757970733455
+    },
+    "F0_MAS": {
+      "proximity": -56.41607766582058,
+      "convergence": -0.18989394790960284,
+      "synchrony": 0.5770245609082324
+    },
+    "ENG_MAX": {
+      "proximity": -2.536117500229345,
+      "convergence": -0.8785939662858373,
+      "synchrony": -0.26052325431028006
+    },
+    "ENG_MEAN": {
+      "proximity": -4.502444141616465,
+      "convergence": -0.960293156770208,
+      "synchrony": -0.3732024006021987
+    },
+    "speech_rate": {
+      "proximity": -3.545783485632982,
+      "convergence": 0.869124964584095,
+      "synchrony": -0.44876760269950183
+    }
+  },
+  "11": {
+    "F0_MAX": {
+      "proximity": -61.52699915272564,
+      "convergence": 0.3096741338107195,
+      "synchrony": -0.2628122967733699
+    },
+    "F0_MEAN": {
+      "proximity": -32.65801134506299,
+      "convergence": 0.545339482831688,
+      "synchrony": 0.5108467434260552
+    },
+    "F0_MAS": {
+      "proximity": -21.523271407196376,
+      "convergence": -0.20942984943638748,
+      "synchrony": 0.4834932810804883
+    },
+    "ENG_MAX": {
+      "proximity": -4.229276980578788,
+      "convergence": 0.2583931178035765,
+      "synchrony": 0.15668208351370536
+    },
+    "ENG_MEAN": {
+      "proximity": -3.691672429333721,
+      "convergence": 0.0421509112138475,
+      "synchrony": 0.2950475060254415
+    },
+    "speech_rate": {
+      "proximity": -2.7026073105941544,
+      "convergence": 0.20606468825807892,
+      "synchrony": 0.5516971488310374
+    }
+  },
+  "12": {
+    "F0_MAX": {
+      "proximity": -96.90254372977245,
+      "convergence": 0.07314643016667309,
+      "synchrony": -0.19109248978902948
+    },
+    "F0_MEAN": {
+      "proximity": -148.25081003605925,
+      "convergence": -0.1723873942511639,
+      "synchrony": 0.34743336263681346
+    },
+    "F0_MAS": {
+      "proximity": -138.16493795074038,
+      "convergence": -0.017703188695190063,
+      "synchrony": -0.13374763354666555
+    },
+    "ENG_MAX": {
+      "proximity": -5.19480517825744,
+      "convergence": 0.3900802769258881,
+      "synchrony": -0.4655336113711163
+    },
+    "ENG_MEAN": {
+      "proximity": -0.0371346487092552,
+      "convergence": 0.10857209669977984,
+      "synchrony": -0.3515051856160157
+    },
+    "speech_rate": {
+      "proximity": -2.7148783547240978,
+      "convergence": -0.3934015287971479,
+      "synchrony": -0.20437125265786232
+    }
+  },
+  "13": {
+    "F0_MAX": {
+      "proximity": -121.40392803453227,
+      "convergence": -0.8596201464593441,
+      "synchrony": -0.16505172292743622
+    },
+    "F0_MEAN": {
+      "proximity": -113.7537892907462,
+      "convergence": -0.14585136636636947,
+      "synchrony": -0.22048457400672258
+    },
+    "F0_MAS": {
+      "proximity": -65.73750900191402,
+      "convergence": -0.43241344931095665,
+      "synchrony": -0.3183105363439597
+    },
+    "ENG_MAX": {
+      "proximity": -3.8151197231305005,
+      "convergence": -0.40692719311154935,
+      "synchrony": 0.30188022549196336
+    },
+    "ENG_MEAN": {
+      "proximity": -4.387824178562887,
+      "convergence": 0.2576381436673527,
+      "synchrony": 0.7055142242954954
+    },
+    "speech_rate": {
+      "proximity": -3.969195829275434,
+      "convergence": -0.07741085723059134,
+      "synchrony": -0.3056309404897374
+    }
+  },
+  "14": {
+    "F0_MAX": {
+      "proximity": -72.960739733482,
+      "convergence": 0.1390274621781888,
+      "synchrony": 0.06577752513837187
+    },
+    "F0_MEAN": {
+      "proximity": -107.43653009609514,
+      "convergence": 0.25787116239433716,
+      "synchrony": -0.375773882213155
+    },
+    "F0_MAS": {
+      "proximity": -129.67004003079296,
+      "convergence": -0.4238878920469578,
+      "synchrony": -0.3844688159129923
+    },
+    "ENG_MAX": {
+      "proximity": -0.5046230289878082,
+      "convergence": 0.16016966075491262,
+      "synchrony": 0.4020990985482794
+    },
+    "ENG_MEAN": {
+      "proximity": -1.84928823564546,
+      "convergence": 0.6646474833924837,
+      "synchrony": 0.43235811063066915
+    },
+    "speech_rate": {
+      "proximity": -1.5460630930787431,
+      "convergence": 0.8138495812638086,
+      "synchrony": 0.1737223613199963
+    }
+  },
+  "15": {
+    "F0_MAX": {
+      "proximity": -129.44059293970736,
+      "convergence": -0.40448428033739287,
+      "synchrony": -0.5267050861127501
+    },
+    "F0_MEAN": {
+      "proximity": -109.74273358261908,
+      "convergence": 0.1933651056059341,
+      "synchrony": -0.9316428751094618
+    },
+    "F0_MAS": {
+      "proximity": -56.55084031265358,
+      "convergence": 0.22949423007210848,
+      "synchrony": 0.3207451469466698
+    },
+    "ENG_MAX": {
+      "proximity": -3.5112573489273444,
+      "convergence": 0.47594058129896705,
+      "synchrony": -0.1291572472467902
+    },
+    "ENG_MEAN": {
+      "proximity": -0.04685369015776786,
+      "convergence": -0.6012705336401658,
+      "synchrony": -0.07001666889312545
+    },
+    "speech_rate": {
+      "proximity": -5.840820548603846,
+      "convergence": -0.7695854533109877,
+      "synchrony": -0.7027542047607329
+    }
+  },
+  "16": {
+    "F0_MAX": {
+      "proximity": -146.1376047635567,
+      "convergence": 0.6651276298782669,
+      "synchrony": 0.7381443919722748
+    },
+    "F0_MEAN": {
+      "proximity": -130.191906300166,
+      "convergence": 0.8944452188761779,
+      "synchrony": 0.2940351004010515
+    },
+    "F0_MAS": {
+      "proximity": -169.25003769080072,
+      "convergence": 0.6448270229651667,
+      "synchrony": -0.2057647225579889
+    },
+    "ENG_MAX": {
+      "proximity": -0.3434122078469741,
+      "convergence": -0.0736134287148467,
+      "synchrony": -0.4479028831276985
+    },
+    "ENG_MEAN": {
+      "proximity": -2.841929839060761,
+      "convergence": -0.03344778298399533,
+      "synchrony": -0.7398978866246008
+    },
+    "speech_rate": {
+      "proximity": -2.1882013039591444,
+      "convergence": -0.6740944185257755,
+      "synchrony": -0.4896642658489473
+    }
+  },
+  "17": {
+    "F0_MAX": {
+      "proximity": -102.75718801608781,
+      "convergence": -0.3300264036233528,
+      "synchrony": 0.7008153357574227
+    },
+    "F0_MEAN": {
+      "proximity": -138.54974200657273,
+      "convergence": 0.5227311208784666,
+      "synchrony": 0.4557070713807921
+    },
+    "F0_MAS": {
+      "proximity": -148.8539235181758,
+      "convergence": -0.45866775734992754,
+      "synchrony": -0.37683365447452394
+    },
+    "ENG_MAX": {
+      "proximity": -1.2825929224800703,
+      "convergence": 0.5771368841607204,
+      "synchrony": -0.4210454279569566
+    },
+    "ENG_MEAN": {
+      "proximity": -1.1108049129176152,
+      "convergence": 0.5152566809602391,
+      "synchrony": -0.3668739916610123
+    },
+    "speech_rate": {
+      "proximity": -1.1406833708862987,
+      "convergence": 0.6411806580305311,
+      "synchrony": -0.5136139445924498
+    }
+  },
+  "18": {
+    "F0_MAX": {
+      "proximity": -60.16657374481565,
+      "convergence": -0.8409336082798278,
+      "synchrony": -0.6367159732024493
+    },
+    "F0_MEAN": {
+      "proximity": -30.186769784304005,
+      "convergence": -0.41556481412695795,
+      "synchrony": 0.579699248861122
+    },
+    "F0_MAS": {
+      "proximity": -21.22654838191471,
+      "convergence": 0.23002647751989957,
+      "synchrony": 0.42909515289129163
+    },
+    "ENG_MAX": {
+      "proximity": -2.737886759594595,
+      "convergence": -0.5405020442178611,
+      "synchrony": -0.4556235015905333
+    },
+    "ENG_MEAN": {
+      "proximity": -2.580071379023302,
+      "convergence": -0.573105793008752,
+      "synchrony": -0.43994955454181706
+    },
+    "speech_rate": {
+      "proximity": -2.5724467976066867,
+      "convergence": -0.6783177414995627,
+      "synchrony": -0.6684610332210484
+    }
+  },
+  "19": {
+    "F0_MAX": {
+      "proximity": -78.184518594103,
+      "convergence": 0.27909463766180925,
+      "synchrony": 0.26502103186195297
+    },
+    "F0_MEAN": {
+      "proximity": -111.5438916639495,
+      "convergence": 0.6889596861032931,
+      "synchrony": 0.2986067859878674
+    },
+    "F0_MAS": {
+      "proximity": -103.32456048396483,
+      "convergence": 0.8083476102189913,
+      "synchrony": -0.3892176398051398
+    },
+    "ENG_MAX": {
+      "proximity": -6.340983711600721,
+      "convergence": -0.44725143949003954,
+      "synchrony": -0.5104668164115946
+    },
+    "ENG_MEAN": {
+      "proximity": -6.070694968791486,
+      "convergence": -0.0618144210045867,
+      "synchrony": -0.3528824775495981
+    },
+    "speech_rate": {
+      "proximity": -4.565116917269005,
+      "convergence": -0.8640890356972373,
+      "synchrony": -0.39506598106474783
+    }
+  },
+  "20": {
+    "F0_MAX": {
+      "proximity": -14.577725214736176,
+      "convergence": -0.5935552136310525,
+      "synchrony": 0.5250718001517812
+    },
+    "F0_MEAN": {
+      "proximity": -1.226706844375201,
+      "convergence": 0.17740545926888712,
+      "synchrony": 0.922757031159084
+    },
+    "F0_MAS": {
+      "proximity": -10.210289993476408,
+      "convergence": 0.14897274636567354,
+      "synchrony": 0.1615281250631593
+    },
+    "ENG_MAX": {
+      "proximity": -1.9656659131270047,
+      "convergence": 0.5017983119649732,
+      "synchrony": 0.38036352229153036
+    },
+    "ENG_MEAN": {
+      "proximity": -2.5820068860539322,
+      "convergence": -0.5498428268529539,
+      "synchrony": -0.2691933246296295
+    },
+    "speech_rate": {
+      "proximity": -2.3255450892608476,
+      "convergence": -0.5528667722757067,
+      "synchrony": 0.21312013504313493
+    }
+  },
+  "21": {
+    "F0_MAX": {
+      "proximity": -35.11954614466674,
+      "convergence": 0.5694993220608573,
+      "synchrony": 0.18994046010124976
+    },
+    "F0_MEAN": {
+      "proximity": -90.20150538828713,
+      "convergence": 0.8773492494101074,
+      "synchrony": -0.4764473819903548
+    },
+    "F0_MAS": {
+      "proximity": -22.52467145217554,
+      "convergence": -0.06887397043025006,
+      "synchrony": -0.5013816972748287
+    },
+    "ENG_MAX": {
+      "proximity": -1.564991325500273,
+      "convergence": -0.01622999510196845,
+      "synchrony": 0.44754041325545113
+    },
+    "ENG_MEAN": {
+      "proximity": -2.853819809069215,
+      "convergence": 0.46063309122191315,
+      "synchrony": -0.5638464592994012
+    },
+    "speech_rate": {
+      "proximity": -2.0606581503981367,
+      "convergence": 0.2524424911596734,
+      "synchrony": -0.26023750052931455
+    }
+  },
+  "22": {
+    "F0_MAX": {
+      "proximity": -59.7618668848919,
+      "convergence": -0.4997321669234362,
+      "synchrony": 0.35311976481976093
+    },
+    "F0_MEAN": {
+      "proximity": -76.8508401169943,
+      "convergence": 0.5780550996411558,
+      "synchrony": -0.12397006224773063
+    },
+    "F0_MAS": {
+      "proximity": -133.83219431156562,
+      "convergence": -0.19908840684602294,
+      "synchrony": 0.7329723140027093
+    },
+    "ENG_MAX": {
+      "proximity": -16.97181857010088,
+      "convergence": 0.3110704493490789,
+      "synchrony": 0.7370599407574794
+    },
+    "ENG_MEAN": {
+      "proximity": -11.262238556843343,
+      "convergence": 0.14545234987778888,
+      "synchrony": 0.6333345320124644
+    },
+    "speech_rate": null
+  },
+  "23": {
+    "F0_MAX": {
+      "proximity": -4.7970413143650035,
+      "convergence": 0.33062902953308426,
+      "synchrony": -0.746082761763688
+    },
+    "F0_MEAN": {
+      "proximity": -91.4976255368407,
+      "convergence": 0.8625966522995671,
+      "synchrony": 0.2990480925593866
+    },
+    "F0_MAS": {
+      "proximity": -118.8286251733548,
+      "convergence": -0.28935055934902143,
+      "synchrony": 0.6713820165628571
+    },
+    "ENG_MAX": {
+      "proximity": -4.151738077662948,
+      "convergence": -0.5283448898708883,
+      "synchrony": -0.7859642181451256
+    },
+    "ENG_MEAN": {
+      "proximity": -1.543825856708267,
+      "convergence": -0.3134707960271017,
+      "synchrony": 0.6095367911501952
+    },
+    "speech_rate": {
+      "proximity": -2.9628796031574565,
+      "convergence": -0.17508250987681576,
+      "synchrony": 0.1946156337849734
+    }
+  },
+  "24": {
+    "F0_MAX": {
+      "proximity": -17.499997438920957,
+      "convergence": -0.689417867621244,
+      "synchrony": -0.21819580472951783
+    },
+    "F0_MEAN": {
+      "proximity": -89.84389578803851,
+      "convergence": 0.5671885744588788,
+      "synchrony": 0.6268422126664679
+    },
+    "F0_MAS": {
+      "proximity": -24.440299729152116,
+      "convergence": -0.33641092558182123,
+      "synchrony": 0.7700758163089954
+    },
+    "ENG_MAX": {
+      "proximity": -5.996229405424323,
+      "convergence": -0.3049627277829633,
+      "synchrony": -0.525019429475413
+    },
+    "ENG_MEAN": {
+      "proximity": -0.7797860025058014,
+      "convergence": -0.0019875576873240575,
+      "synchrony": 0.36751318848242454
+    },
+    "speech_rate": {
+      "proximity": -1.1615342551123096,
+      "convergence": -0.5686841314023555,
+      "synchrony": 0.39520238918850853
+    }
+  },
+  "25": {
+    "F0_MAX": {
+      "proximity": -43.804689814074095,
+      "convergence": 0.2533456439525972,
+      "synchrony": -0.13214893076070555
+    },
+    "F0_MEAN": {
+      "proximity": -99.36348279544947,
+      "convergence": 0.261799094312878,
+      "synchrony": 0.30569470537981447
+    },
+    "F0_MAS": {
+      "proximity": -6.746213088775448,
+      "convergence": 0.7407548923673377,
+      "synchrony": -0.39072834397098183
+    },
+    "ENG_MAX": {
+      "proximity": -6.5031820504965765,
+      "convergence": 0.18688188483673232,
+      "synchrony": -0.4799209123399022
+    },
+    "ENG_MEAN": {
+      "proximity": -3.2743800665871277,
+      "convergence": -0.045857272971195684,
+      "synchrony": -0.5259305400435034
+    },
+    "speech_rate": {
+      "proximity": -0.41662754665919266,
+      "convergence": -0.05255079566317832,
+      "synchrony": -0.5890919512393976
+    }
+  },
+  "26": {
+    "F0_MAX": {
+      "proximity": -98.23557116762515,
+      "convergence": 0.8470587605676233,
+      "synchrony": -0.65151884627967
+    },
+    "F0_MEAN": {
+      "proximity": -126.12258193095758,
+      "convergence": 0.9680007884789289,
+      "synchrony": -0.6867053199223783
+    },
+    "F0_MAS": {
+      "proximity": -100.23343530608719,
+      "convergence": 0.7187766240453161,
+      "synchrony": 0.15838642674764572
+    },
+    "ENG_MAX": {
+      "proximity": -2.958463113981331,
+      "convergence": 0.744037341532015,
+      "synchrony": -0.0644795236453944
+    },
+    "ENG_MEAN": {
+      "proximity": -1.998231517708433,
+      "convergence": -0.5274094947240185,
+      "synchrony": 0.04662530214099693
+    },
+    "speech_rate": {
+      "proximity": -4.258534558841235,
+      "convergence": 0.5024814843812279,
+      "synchrony": -0.3122480655835869
+    }
+  },
+  "27": {
+    "F0_MAX": {
+      "proximity": -117.41675782079301,
+      "convergence": 0.6412292622070661,
+      "synchrony": -0.6997641718842629
+    },
+    "F0_MEAN": {
+      "proximity": -139.43496925928818,
+      "convergence": -0.5334915335870366,
+      "synchrony": 0.6025235855147194
+    },
+    "F0_MAS": {
+      "proximity": -182.8595158172027,
+      "convergence": -0.3231475836990068,
+      "synchrony": 0.35442111433697565
+    },
+    "ENG_MAX": {
+      "proximity": -0.3274505970964867,
+      "convergence": -0.5806071292079997,
+      "synchrony": 0.5764793132832566
+    },
+    "ENG_MEAN": {
+      "proximity": -4.362385361379957,
+      "convergence": -0.7012001503997534,
+      "synchrony": 0.5988877263453736
+    },
+    "speech_rate": {
+      "proximity": -3.0483911360850025,
+      "convergence": 0.4682261302548419,
+      "synchrony": -0.46016891419026396
+    }
+  },
+  "28": {
+    "F0_MAX": {
+      "proximity": -48.671086741363126,
+      "convergence": -0.5593242006184478,
+      "synchrony": 0.2788413905337401
+    },
+    "F0_MEAN": {
+      "proximity": -42.98237351384998,
+      "convergence": -0.8416989546229633,
+      "synchrony": 0.17498356547919638
+    },
+    "F0_MAS": {
+      "proximity": -1.2527643557422152,
+      "convergence": 0.388589718960443,
+      "synchrony": 0.1377680146448598
+    },
+    "ENG_MAX": {
+      "proximity": -2.2723222144413313,
+      "convergence": -0.313431206315829,
+      "synchrony": -0.3951826570531984
+    },
+    "ENG_MEAN": {
+      "proximity": -3.4892698334889545,
+      "convergence": -0.49677182445185525,
+      "synchrony": 0.7225218398258417
+    },
+    "speech_rate": null
+  },
+  "29": {
+    "F0_MAX": {
+      "proximity": -27.496348802014325,
+      "convergence": 0.08165305353731957,
+      "synchrony": 0.30502263851057637
+    },
+    "F0_MEAN": {
+      "proximity": -121.18454292145691,
+      "convergence": 0.19306415450417427,
+      "synchrony": 0.8449349688188074
+    },
+    "F0_MAS": {
+      "proximity": -176.4469960003562,
+      "convergence": 0.9120123271391684,
+      "synchrony": -0.38595674442549016
+    },
+    "ENG_MAX": {
+      "proximity": -2.4694879412137993,
+      "convergence": 0.5212508513403755,
+      "synchrony": -0.5564454825955175
+    },
+    "ENG_MEAN": {
+      "proximity": -0.6455134141696277,
+      "convergence": 0.6245709450053633,
+      "synchrony": 0.5247053922064167
+    },
+    "speech_rate": {
+      "proximity": -2.113611934148617,
+      "convergence": -0.04093782977538602,
+      "synchrony": -0.21377011138684665
+    }
+  },
+  "30": {
+    "F0_MAX": {
+      "proximity": -101.24119007653331,
+      "convergence": 0.28418266085346017,
+      "synchrony": -0.3021108655201093
+    },
+    "F0_MEAN": {
+      "proximity": -94.88395727995007,
+      "convergence": 0.817900706100374,
+      "synchrony": -0.814726984433679
+    },
+    "F0_MAS": {
+      "proximity": -36.801282791940764,
+      "convergence": -0.3496424422440232,
+      "synchrony": 0.8731598694566256
+    },
+    "ENG_MAX": {
+      "proximity": -4.102647568707567,
+      "convergence": 0.19787315179055098,
+      "synchrony": -0.6855238478819885
+    },
+    "ENG_MEAN": {
+      "proximity": -5.716159990449924,
+      "convergence": 0.6540041874911067,
+      "synchrony": 0.5552272878924454
+    },
+    "speech_rate": {
+      "proximity": -4.709675044086609,
+      "convergence": -0.5795472011131367,
+      "synchrony": 0.5252241878081496
+    }
+  },
+  "31": {
+    "F0_MAX": {
+      "proximity": -115.54350082519255,
+      "convergence": 0.07084015532230876,
+      "synchrony": -0.2599050146796472
+    },
+    "F0_MEAN": {
+      "proximity": -84.68650340496117,
+      "convergence": 0.6906943185860983,
+      "synchrony": -0.36148551139826535
+    },
+    "F0_MAS": {
+      "proximity": -18.902631884939808,
+      "convergence": -0.32647374746539626,
+      "synchrony": 0.42362709007033034
+    },
+    "ENG_MAX": {
+      "proximity": -0.0666823258760374,
+      "convergence": 0.003398257108279195,
+      "synchrony": 0.4965800761136592
+    },
+    "ENG_MEAN": {
+      "proximity": -1.0879098414630093,
+      "convergence": -0.047171550415955506,
+      "synchrony": 0.20098663434790137
+    },
+    "speech_rate": {
+      "proximity": -3.153436869122448,
+      "convergence": 0.48724236425791234,
+      "synchrony": 0.15455640946516885
+    }
+  },
+  "32": {
+    "F0_MAX": {
+      "proximity": -165.09505437226446,
+      "convergence": 0.5475108152724573,
+      "synchrony": 0.6455270179217923
+    },
+    "F0_MEAN": {
+      "proximity": -146.62077769575507,
+      "convergence": 0.29544345462441607,
+      "synchrony": 0.8634248468245698
+    },
+    "F0_MAS": {
+      "proximity": -211.43960640625934,
+      "convergence": -0.21804994191704125,
+      "synchrony": 0.5666995993061018
+    },
+    "ENG_MAX": {
+      "proximity": -5.940476145152587,
+      "convergence": -0.0032009640967800173,
+      "synchrony": 0.592845615720683
+    },
+    "ENG_MEAN": {
+      "proximity": -4.815219355177163,
+      "convergence": 0.4740169602189964,
+      "synchrony": 0.59806603330055
+    },
+    "speech_rate": {
+      "proximity": -3.299635708877963,
+      "convergence": 0.42195229942329565,
+      "synchrony": 0.5698394554395642
+    }
+  },
+  "33": {
+    "F0_MAX": {
+      "proximity": -89.76812673930169,
+      "convergence": 0.3654669582141833,
+      "synchrony": -0.11801555006334985
+    },
+    "F0_MEAN": {
+      "proximity": -135.9717311812666,
+      "convergence": 0.465202199413026,
+      "synchrony": 0.17525763718076923
+    },
+    "F0_MAS": {
+      "proximity": -121.74664439485426,
+      "convergence": 0.8413758599397392,
+      "synchrony": 0.177289748909358
+    },
+    "ENG_MAX": {
+      "proximity": -2.0164704099938717,
+      "convergence": -0.9044513040113221,
+      "synchrony": -0.34529824836509726
+    },
+    "ENG_MEAN": {
+      "proximity": -3.173522764067556,
+      "convergence": -0.44886733610030155,
+      "synchrony": -0.4195303927389931
+    },
+    "speech_rate": {
+      "proximity": -4.120128333336666,
+      "convergence": -0.4123257558563072,
+      "synchrony": -0.33272602807078766
+    }
+  },
+  "34": {
+    "F0_MAX": {
+      "proximity": -139.20476839674163,
+      "convergence": -0.6951298029425985,
+      "synchrony": 0.4285677106878204
+    },
+    "F0_MEAN": {
+      "proximity": -131.02646351749036,
+      "convergence": -0.16403123254368165,
+      "synchrony": 0.5839693588765332
+    },
+    "F0_MAS": {
+      "proximity": -1.3282995964927409,
+      "convergence": 0.0733818082066328,
+      "synchrony": 0.6720139175079544
+    },
+    "ENG_MAX": {
+      "proximity": -3.890097475046268,
+      "convergence": -0.8449237236055284,
+      "synchrony": -0.6153607445252702
+    },
+    "ENG_MEAN": {
+      "proximity": -5.902260774096668,
+      "convergence": -0.9092326868504568,
+      "synchrony": -0.6804574561250505
+    },
+    "speech_rate": {
+      "proximity": -4.304850759951035,
+      "convergence": -0.9010670014836022,
+      "synchrony": -0.3033931770884834
+    }
+  },
+  "35": {
+    "F0_MAX": {
+      "proximity": -87.76543320431136,
+      "convergence": 0.6455298855307269,
+      "synchrony": 0.6058889028922666
+    },
+    "F0_MEAN": {
+      "proximity": -128.8302064942889,
+      "convergence": 0.5607411079858496,
+      "synchrony": -0.0807621951570222
+    },
+    "F0_MAS": {
+      "proximity": -97.32605472154364,
+      "convergence": -0.8308771422920062,
+      "synchrony": 0.66155237940627
+    },
+    "ENG_MAX": {
+      "proximity": -0.14089291727188424,
+      "convergence": -0.5087560341802243,
+      "synchrony": -0.13348690428711857
+    },
+    "ENG_MEAN": {
+      "proximity": -1.9724415728575195,
+      "convergence": 0.011941383907321078,
+      "synchrony": 0.07072243958871538
+    },
+    "speech_rate": {
+      "proximity": -3.5423696593729366,
+      "convergence": -0.05106856526563722,
+      "synchrony": -0.3060596612741117
+    }
+  },
+  "36": {
+    "F0_MAX": {
+      "proximity": -55.3431582412511,
+      "convergence": -0.7458463012156974,
+      "synchrony": -0.48720840273466687
+    },
+    "F0_MEAN": {
+      "proximity": -106.96342692354685,
+      "convergence": 0.6459423920126637,
+      "synchrony": -0.4816175334732707
+    },
+    "F0_MAS": {
+      "proximity": -17.678608839220203,
+      "convergence": 0.3577955696847626,
+      "synchrony": -0.38506491329722997
+    },
+    "ENG_MAX": {
+      "proximity": -2.6504193759671963,
+      "convergence": 0.7814639935777438,
+      "synchrony": 0.41577800812442794
+    },
+    "ENG_MEAN": {
+      "proximity": -0.23713550348873014,
+      "convergence": 0.6578810289064677,
+      "synchrony": 0.4027509472383615
+    },
+    "speech_rate": {
+      "proximity": -2.3033895330811927,
+      "convergence": -0.7458405719730811,
+      "synchrony": 0.3401584193541541
+    }
+  },
+  "37": {
+    "F0_MAX": {
+      "proximity": -141.1072429727241,
+      "convergence": 0.056001245462382006,
+      "synchrony": 0.2527551917820394
+    },
+    "F0_MEAN": {
+      "proximity": -143.19539404819335,
+      "convergence": 0.5068193373251599,
+      "synchrony": -0.5522503187828285
+    },
+    "F0_MAS": {
+      "proximity": -170.61229699559294,
+      "convergence": 0.3794543347460706,
+      "synchrony": 0.3892812045099308
+    },
+    "ENG_MAX": {
+      "proximity": -1.06104613499825,
+      "convergence": 0.3333762371700931,
+      "synchrony": -0.3890817290297923
+    },
+    "ENG_MEAN": {
+      "proximity": -1.3609353402911708,
+      "convergence": -0.3782844399072905,
+      "synchrony": -0.7754403712454411
+    },
+    "speech_rate": {
+      "proximity": -4.5724397266571986,
+      "convergence": -0.5166968454476918,
+      "synchrony": -0.2617460797846844
+    }
+  },
+  "38": {
+    "F0_MAX": {
+      "proximity": -2.9608830084416695,
+      "convergence": 0.1069532625563604,
+      "synchrony": -0.15440984230534327
+    },
+    "F0_MEAN": {
+      "proximity": -96.1390170443185,
+      "convergence": 0.7411406230559303,
+      "synchrony": -0.6319936943525299
+    },
+    "F0_MAS": {
+      "proximity": -71.15784601521716,
+      "convergence": 0.7363720880757587,
+      "synchrony": 0.2493497035128019
+    },
+    "ENG_MAX": {
+      "proximity": -2.4136421609463454,
+      "convergence": -0.25020989844798097,
+      "synchrony": 0.8091782222645448
+    },
+    "ENG_MEAN": {
+      "proximity": -1.5331057869599078,
+      "convergence": 0.038729401318217505,
+      "synchrony": 0.6567569604164095
+    },
+    "speech_rate": {
+      "proximity": -2.4994604394244355,
+      "convergence": -0.3831790336782873,
+      "synchrony": 0.5283799462172246
+    }
+  },
+  "39": {
+    "F0_MAX": {
+      "proximity": -75.50262392405688,
+      "convergence": 0.6604230396035865,
+      "synchrony": -0.3416249375366054
+    },
+    "F0_MEAN": {
+      "proximity": -34.94808905735093,
+      "convergence": 0.6973035883277403,
+      "synchrony": -0.1526437302501851
+    },
+    "F0_MAS": {
+      "proximity": -61.93144851765777,
+      "convergence": 0.5211690166935122,
+      "synchrony": 0.3521815067628685
+    },
+    "ENG_MAX": {
+      "proximity": -3.76069545890514,
+      "convergence": 0.18017765552136777,
+      "synchrony": 0.5569488862741363
+    },
+    "ENG_MEAN": {
+      "proximity": -2.9633662910088034,
+      "convergence": 0.6867315460872309,
+      "synchrony": 0.4346546084166643
+    },
+    "speech_rate": {
+      "proximity": -2.4270977362624038,
+      "convergence": -0.007777695484953715,
+      "synchrony": 0.4863855106764609
+    }
+  },
+  "40": {
+    "F0_MAX": {
+      "proximity": -0.502552637805536,
+      "convergence": 0.28953016437998785,
+      "synchrony": -0.28833866230027894
+    },
+    "F0_MEAN": {
+      "proximity": -56.66191520756499,
+      "convergence": 0.8618066250426663,
+      "synchrony": 0.506689173215022
+    },
+    "F0_MAS": {
+      "proximity": -9.179811886034997,
+      "convergence": 0.45893439269640346,
+      "synchrony": 0.4009485173053596
+    },
+    "ENG_MAX": {
+      "proximity": -1.9927403846153808,
+      "convergence": -0.2982960505705688,
+      "synchrony": -0.5376190630440494
+    },
+    "ENG_MEAN": {
+      "proximity": -0.04468556835612958,
+      "convergence": -0.21652425579110998,
+      "synchrony": -0.4983023158891072
+    },
+    "speech_rate": {
+      "proximity": -3.1889026561213676,
+      "convergence": -0.597090474763752,
+      "synchrony": -0.3184223089731489
+    }
+  },
+  "41": {
+    "F0_MAX": {
+      "proximity": -53.99599825374864,
+      "convergence": 0.4109962406153136,
+      "synchrony": -0.30109764692719393
+    },
+    "F0_MEAN": {
+      "proximity": -107.67358462701098,
+      "convergence": 0.8308168532149791,
+      "synchrony": -0.6793786486806239
+    },
+    "F0_MAS": {
+      "proximity": -34.86330655463337,
+      "convergence": 0.5465104010182098,
+      "synchrony": 0.19848693873087783
+    },
+    "ENG_MAX": {
+      "proximity": -5.29137111469754,
+      "convergence": -0.2776591397310763,
+      "synchrony": 0.7109408246890715
+    },
+    "ENG_MEAN": {
+      "proximity": -2.7612735679885176,
+      "convergence": -0.4325350486532736,
+      "synchrony": 0.7634713680206423
+    },
+    "speech_rate": {
+      "proximity": -2.4302110882378543,
+      "convergence": -0.1174545221943499,
+      "synchrony": 0.337258947687625
+    }
+  },
+  "42": {
+    "F0_MAX": {
+      "proximity": -62.81722308340028,
+      "convergence": -0.7903916027371803,
+      "synchrony": 0.3726304585650296
+    },
+    "F0_MEAN": {
+      "proximity": -125.2591014180733,
+      "convergence": -0.5813531304462161,
+      "synchrony": -0.11491382312223475
+    },
+    "F0_MAS": {
+      "proximity": -69.03004989091733,
+      "convergence": -0.22174581695916082,
+      "synchrony": 0.5123965205783542
+    },
+    "ENG_MAX": {
+      "proximity": -2.572623081486576,
+      "convergence": 0.054804223837720295,
+      "synchrony": 0.6572401762044158
+    },
+    "ENG_MEAN": {
+      "proximity": -1.4588393233053907,
+      "convergence": 0.7293175754397693,
+      "synchrony": -0.2931320364322428
+    },
+    "speech_rate": {
+      "proximity": -3.9574400895285233,
+      "convergence": 0.9541331655886788,
+      "synchrony": -0.6046221911691899
+    }
+  },
+  "43": {
+    "F0_MAX": {
+      "proximity": -12.298873190250447,
+      "convergence": 0.14159004848005946,
+      "synchrony": -0.37598969102511426
+    },
+    "F0_MEAN": {
+      "proximity": -89.61653020889685,
+      "convergence": 0.9533705523305716,
+      "synchrony": -0.4722725152547191
+    },
+    "F0_MAS": {
+      "proximity": -148.85957876984762,
+      "convergence": -0.33098571607693894,
+      "synchrony": -0.647588880156961
+    },
+    "ENG_MAX": {
+      "proximity": -5.001587536194975,
+      "convergence": 0.4412351230572494,
+      "synchrony": 0.2824489418862966
+    },
+    "ENG_MEAN": {
+      "proximity": -0.37396553918605946,
+      "convergence": -0.18924631931783076,
+      "synchrony": -0.2129321882647474
+    },
+    "speech_rate": {
+      "proximity": -1.953807057934542,
+      "convergence": 0.09721473490154277,
+      "synchrony": 0.6675121482289081
+    }
+  },
+  "44": {
+    "F0_MAX": {
+      "proximity": -41.651299175108306,
+      "convergence": 0.5707528337031974,
+      "synchrony": 0.5489843085846196
+    },
+    "F0_MEAN": {
+      "proximity": -7.577375988113346,
+      "convergence": -0.6325752389123644,
+      "synchrony": 0.789036906128568
+    },
+    "F0_MAS": {
+      "proximity": -118.0342047041515,
+      "convergence": 0.6358721439695435,
+      "synchrony": 0.3827919442558337
+    },
+    "ENG_MAX": {
+      "proximity": -0.5482579268649772,
+      "convergence": 0.019295530506452746,
+      "synchrony": -0.6408618154430719
+    },
+    "ENG_MEAN": {
+      "proximity": -3.3289819394835334,
+      "convergence": -0.8407596311504552,
+      "synchrony": -0.32385120019052965
+    },
+    "speech_rate": {
+      "proximity": -2.9896719665691274,
+      "convergence": -0.8473106070315349,
+      "synchrony": 0.15143549145185378
+    }
+  },
+  "45": {
+    "F0_MAX": {
+      "proximity": -7.329480223336191,
+      "convergence": 0.043429493881628096,
+      "synchrony": 0.2429442113814776
+    },
+    "F0_MEAN": {
+      "proximity": -67.33542821725916,
+      "convergence": 0.7848159656883754,
+      "synchrony": 0.6293411518148878
+    },
+    "F0_MAS": {
+      "proximity": -79.43965666419447,
+      "convergence": 0.6212811421132094,
+      "synchrony": 0.322979461626861
+    },
+    "ENG_MAX": {
+      "proximity": -7.459592958993234,
+      "convergence": -0.3058122965935221,
+      "synchrony": 0.7927793354980527
+    },
+    "ENG_MEAN": {
+      "proximity": -0.1561069429159474,
+      "convergence": 0.22668445629666603,
+      "synchrony": 0.9081156309790273
+    },
+    "speech_rate": {
+      "proximity": -2.3222175079856173,
+      "convergence": 0.9073920971070432,
+      "synchrony": -0.44007975323433457
+    }
+  },
+  "46": {
+    "F0_MAX": {
+      "proximity": -8.58755415898787,
+      "convergence": 0.5876436355238144,
+      "synchrony": -0.5737908169887206
+    },
+    "F0_MEAN": {
+      "proximity": -90.67357318302234,
+      "convergence": 0.7628737458378638,
+      "synchrony": -0.5305010811104616
+    },
+    "F0_MAS": {
+      "proximity": -32.55616611955753,
+      "convergence": -0.5852261990897819,
+      "synchrony": 0.21896063782712433
+    },
+    "ENG_MAX": {
+      "proximity": -8.66417922617677,
+      "convergence": 0.2839291267951714,
+      "synchrony": 0.30667260819082726
+    },
+    "ENG_MEAN": {
+      "proximity": -1.703712667012205,
+      "convergence": 0.1278001554357968,
+      "synchrony": 0.3214788108547397
+    },
+    "speech_rate": {
+      "proximity": -3.7153924688217614,
+      "convergence": -0.18078591334035016,
+      "synchrony": 0.45367455325778244
+    }
+  },
+  "47": {
+    "F0_MAX": {
+      "proximity": -33.63731142078507,
+      "convergence": -0.5197219679690254,
+      "synchrony": -0.08153859593099423
+    },
+    "F0_MEAN": {
+      "proximity": -22.129673461617728,
+      "convergence": 0.19264794722934114,
+      "synchrony": 0.3447635579073115
+    },
+    "F0_MAS": {
+      "proximity": -100.93605308764262,
+      "convergence": -0.4424807821182067,
+      "synchrony": -0.7053866134930739
+    },
+    "ENG_MAX": {
+      "proximity": -4.106663611276495,
+      "convergence": -0.305292755323308,
+      "synchrony": -0.30580413215673213
+    },
+    "ENG_MEAN": {
+      "proximity": -0.9428020885815016,
+      "convergence": 0.4537961508948292,
+      "synchrony": 0.4917663933636933
+    },
+    "speech_rate": {
+      "proximity": -1.3475429570528172,
+      "convergence": 0.08792403225875836,
+      "synchrony": 0.3178492977738346
+    }
+  },
+  "48": {
+    "F0_MAX": {
+      "proximity": -30.456304935230435,
+      "convergence": -0.5861202027282181,
+      "synchrony": 0.1955555923199616
+    },
+    "F0_MEAN": {
+      "proximity": -37.03577713187215,
+      "convergence": 0.6455902391243684,
+      "synchrony": 0.3123247409379521
+    },
+    "F0_MAS": {
+      "proximity": -97.40116412653106,
+      "convergence": -0.021112085277196393,
+      "synchrony": 0.1897351903207065
+    },
+    "ENG_MAX": {
+      "proximity": -4.958085259538933,
+      "convergence": -0.5405467070711297,
+      "synchrony": 0.16250091231952968
+    },
+    "ENG_MEAN": {
+      "proximity": -4.1222731950455795,
+      "convergence": -0.572494226690698,
+      "synchrony": 0.5079576296653815
+    },
+    "speech_rate": {
+      "proximity": -1.2668807578915393,
+      "convergence": -0.44871028021290643,
+      "synchrony": 0.5337227329719072
+    }
+  },
+  "49": {
+    "F0_MAX": {
+      "proximity": -46.59990080006946,
+      "convergence": 0.4422874709874364,
+      "synchrony": 0.4441994348343318
+    },
+    "F0_MEAN": {
+      "proximity": -110.646307645777,
+      "convergence": 0.0555019213353481,
+      "synchrony": 0.6024176899326571
+    },
+    "F0_MAS": {
+      "proximity": -193.54219205678675,
+      "convergence": 0.1668009701492742,
+      "synchrony": 0.5904313571413984
+    },
+    "ENG_MAX": {
+      "proximity": -1.1970655061091477,
+      "convergence": 0.44255387129884016,
+      "synchrony": -0.44684834713962496
+    },
+    "ENG_MEAN": {
+      "proximity": -3.519437341256058,
+      "convergence": 0.42934858343787496,
+      "synchrony": 0.5949124116126063
+    },
+    "speech_rate": {
+      "proximity": -1.791842819017651,
+      "convergence": 0.6069553332457528,
+      "synchrony": 0.09060485776177987
+    }
+  },
+  "50": {
+    "F0_MAX": {
+      "proximity": -100.30524546559207,
+      "convergence": 0.7213718609350374,
+      "synchrony": -0.36143873922332603
+    },
+    "F0_MEAN": {
+      "proximity": -122.50472469518891,
+      "convergence": 0.12198469387037421,
+      "synchrony": 0.43718667661855753
+    },
+    "F0_MAS": {
+      "proximity": -117.71137367503297,
+      "convergence": 0.6550400495121856,
+      "synchrony": 0.6448303968410112
+    },
+    "ENG_MAX": {
+      "proximity": -5.201563409627646,
+      "convergence": 0.01429034924521611,
+      "synchrony": -0.47862569067564015
+    },
+    "ENG_MEAN": {
+      "proximity": -0.5412723013235876,
+      "convergence": -0.7844694584695081,
+      "synchrony": 0.14975171604030516
+    },
+    "speech_rate": {
+      "proximity": -2.1557697301397827,
+      "convergence": 0.8735901069531574,
+      "synchrony": -0.3039839575498681
+    }
+  },
+  "51": {
+    "F0_MAX": {
+      "proximity": -50.422708584515476,
+      "convergence": 0.42085859460317265,
+      "synchrony": 0.5012632273043816
+    },
+    "F0_MEAN": {
+      "proximity": -119.75045411125888,
+      "convergence": 0.7518115560072806,
+      "synchrony": -0.44914011518981667
+    },
+    "F0_MAS": {
+      "proximity": -69.33379292257689,
+      "convergence": -0.8205324107124696,
+      "synchrony": -0.1288358518232555
+    },
+    "ENG_MAX": {
+      "proximity": -2.2870614509456217,
+      "convergence": -0.8333183494915554,
+      "synchrony": 0.5063468788509623
+    },
+    "ENG_MEAN": {
+      "proximity": -3.5925891437647763,
+      "convergence": -0.38363287839991445,
+      "synchrony": -0.1876855786689819
+    },
+    "speech_rate": {
+      "proximity": -3.811751372473359,
+      "convergence": -0.15798430465461666,
+      "synchrony": 0.6342592787588831
+    }
+  },
+  "52": {
+    "F0_MAX": {
+      "proximity": -23.174409159690015,
+      "convergence": -0.23107239323848222,
+      "synchrony": -0.1839174909065453
+    },
+    "F0_MEAN": {
+      "proximity": -81.619611759673,
+      "convergence": -0.7588678827480422,
+      "synchrony": 0.46564909748081046
+    },
+    "F0_MAS": {
+      "proximity": -226.13654487215751,
+      "convergence": 0.3827026241734191,
+      "synchrony": 0.32189548391187833
+    },
+    "ENG_MAX": {
+      "proximity": -2.4981929340140425,
+      "convergence": 0.25902116436229894,
+      "synchrony": 0.7618175448787814
+    },
+    "ENG_MEAN": {
+      "proximity": -2.0263114535015347,
+      "convergence": 0.0738030928397839,
+      "synchrony": 0.452400412904362
+    },
+    "speech_rate": {
+      "proximity": -3.1775298020032423,
+      "convergence": 0.6858133312708204,
+      "synchrony": -0.02783897694021637
+    }
+  },
+  "53": {
+    "F0_MAX": {
+      "proximity": -63.93579533166002,
+      "convergence": 0.6667226695368588,
+      "synchrony": -0.5017653597209426
+    },
+    "F0_MEAN": {
+      "proximity": -133.86214930945778,
+      "convergence": -0.12202538501215697,
+      "synchrony": -0.6949393352300298
+    },
+    "F0_MAS": {
+      "proximity": -174.4174609962289,
+      "convergence": 0.2641137338243781,
+      "synchrony": 0.8105581083188945
+    },
+    "ENG_MAX": {
+      "proximity": -5.677252416273305,
+      "convergence": 0.03982399243696637,
+      "synchrony": -0.728537830449075
+    },
+    "ENG_MEAN": {
+      "proximity": -6.235789250393346,
+      "convergence": -0.4657364446945417,
+      "synchrony": -0.6807328851234716
+    },
+    "speech_rate": {
+      "proximity": -2.500713257739852,
+      "convergence": -0.5438091387720064,
+      "synchrony": -0.10101556392162016
+    }
+  },
+  "54": {
+    "F0_MAX": {
+      "proximity": -46.088352573682016,
+      "convergence": -0.44625654217570454,
+      "synchrony": 0.40813326470282485
+    },
+    "F0_MEAN": {
+      "proximity": -29.122062612425623,
+      "convergence": 0.25138576699504683,
+      "synchrony": 0.8163969238325834
+    },
+    "F0_MAS": {
+      "proximity": -97.88497143351321,
+      "convergence": -0.31343425731656954,
+      "synchrony": 0.7578326611196461
+    },
+    "ENG_MAX": {
+      "proximity": -0.6164466618237157,
+      "convergence": -0.4792013876581819,
+      "synchrony": 0.2055170967476819
+    },
+    "ENG_MEAN": {
+      "proximity": -2.7172631555278883,
+      "convergence": -0.22381864898080006,
+      "synchrony": 0.5582278091799905
+    },
+    "speech_rate": {
+      "proximity": -3.7520340206297336,
+      "convergence": -0.4195486800230073,
+      "synchrony": -0.3606755116035709
+    }
+  },
+  "55": {
+    "F0_MAX": {
+      "proximity": -36.85635354200866,
+      "convergence": -0.8680488435969869,
+      "synchrony": 0.2166666964017841
+    },
+    "F0_MEAN": {
+      "proximity": -8.011673478498807,
+      "convergence": 0.49901952410476075,
+      "synchrony": 0.7254018972418769
+    },
+    "F0_MAS": {
+      "proximity": -0.39974005227691123,
+      "convergence": 0.26468731037468246,
+      "synchrony": 0.3275465774017718
+    },
+    "ENG_MAX": {
+      "proximity": -9.399977361099104,
+      "convergence": -0.6526045152644184,
+      "synchrony": -0.6721264312051102
+    },
+    "ENG_MEAN": {
+      "proximity": -5.8327751231314195,
+      "convergence": -0.6876935387976466,
+      "synchrony": -0.2859107084896449
+    },
+    "speech_rate": {
+      "proximity": -4.714477253822006,
+      "convergence": -0.721330361397042,
+      "synchrony": -0.6171876885427643
+    }
+  },
+  "56": {
+    "F0_MAX": {
+      "proximity": -57.546418302974075,
+      "convergence": -0.44350795461755077,
+      "synchrony": -0.36740453988381055
+    },
+    "F0_MEAN": {
+      "proximity": -28.03779558333568,
+      "convergence": -0.7591865408044424,
+      "synchrony": 0.8308408573423842
+    },
+    "F0_MAS": {
+      "proximity": -12.621891440451236,
+      "convergence": -0.21311836941964685,
+      "synchrony": -0.4753879688600246
+    },
+    "ENG_MAX": {
+      "proximity": -8.088246388289598,
+      "convergence": -0.5029489825747225,
+      "synchrony": -0.48524835225164703
+    },
+    "ENG_MEAN": {
+      "proximity": -6.9746128915531,
+      "convergence": -0.3458880131768136,
+      "synchrony": 0.11797470777339367
+    },
+    "speech_rate": {
+      "proximity": -3.4744586180117913,
+      "convergence": -0.8054627173859459,
+      "synchrony": -0.598237039095943
+    }
+  },
+  "57": {
+    "F0_MAX": {
+      "proximity": -95.45486985103997,
+      "convergence": 0.723556142738776,
+      "synchrony": -0.31091373211296386
+    },
+    "F0_MEAN": {
+      "proximity": -111.53479581787519,
+      "convergence": 0.7784358159339891,
+      "synchrony": -0.7099549186790031
+    },
+    "F0_MAS": {
+      "proximity": -40.90945183530073,
+      "convergence": 0.5563214055918432,
+      "synchrony": -0.18530278268548334
+    },
+    "ENG_MAX": {
+      "proximity": -3.6867901826868987,
+      "convergence": 0.6953297475826556,
+      "synchrony": -0.30146241602344226
+    },
+    "ENG_MEAN": {
+      "proximity": -0.500972276559871,
+      "convergence": 0.03877247635708811,
+      "synchrony": 0.2955352687558801
+    },
+    "speech_rate": {
+      "proximity": -3.4809019168226234,
+      "convergence": 0.4217027683554865,
+      "synchrony": 0.4008464480276358
+    }
+  }
+}
